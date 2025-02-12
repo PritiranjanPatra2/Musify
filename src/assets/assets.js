@@ -5,6 +5,7 @@ import loop_icon from './loop.png'
 import mic_icon from './mic.png'
 import next_icon from './next.png'
 import play_icon from './play.png'
+import user_icon from './user.png'
 import pause_icon from './pause.png'
 import plays_icon from './plays.png'
 import prev_icon from './prev.png'
@@ -43,6 +44,7 @@ import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
 
 export const assets = {
+    user_icon,
     bell_icon,
     home_icon,
     like_icon,
@@ -66,7 +68,7 @@ export const assets = {
     arrow_left,
     arrow_right,
     spotify_logo,
-    clock_icon
+    clock_icon,
 }
 
 export const albumsData = [
